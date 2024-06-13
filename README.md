@@ -15,11 +15,27 @@ Dates: June 10, 2024 to June 14, 2024
 
 #### Sessions
 
+- [What's new in SwiftUI](whats-new-swiftui.md)
+- [SwiftUI Essentials](swiftui-essentials.md)
+- [What's new in Xcode 16](whats-new-xcode-16.md)
+- [Meet Swift Testing](meet-swift-testing.md)
+- [Go further with Swift Testing](go-further-with-swift-testing.md)
+- [What's new in SwiftData](whats-new-swiftdata.md)
+- [Create a custom data store with SwiftData](create-custom-data-store-with-swiftdata.md)
 
 ### Wednesday, June 12, 2023
 
 #### Sessions
 
+- [What's new in Swift](whats-new-swift.md)
+- [Migrate your app to Swift 6](migrate-app-swift-6.md)
+- [A Swift tour: explore Swift's features and design](swift-tour.md)
+- [Go small with Embedded Swift](go-small-with-embedded-swift.md)
+- [Demystify explicitly built modules](demystify-explicitly-built-modules.md)
+- [Streamline sign-in with passkey upgrades and credential managers](streamline-sign-in-with-passkey-upgrades-and-credential-managers.md)
+- [Xcode essentials](xcode-essentials.md)
+- [What's new in SF Symbols 6](whats-new-sf-symbols-6.md)
+- [What's new in privacy](whats-new-privacy.md)
 
 ### Thursday, June 13, 2023
 
@@ -35,43 +51,28 @@ Dates: June 10, 2024 to June 14, 2024
 
 ### Monday, June 10, 2023
 
-- [Meet Swift Testing](https://developer.apple.com/wwdc24/10179)
-- [SwiftUI Essentials](https://developer.apple.com/wwdc24/10150)
 - [Elevate your tab and sidebar experience in iPadOS](https://developer.apple.com/wwdc24/10147)
-- [Migrate your app to Swift 6](https://developer.apple.com/wwdc24/10169)
-- [What's new in SwiftUI](https://developer.apple.com/wwdc24/10144)
 - [Bring your app to Siri](https://developer.apple.com/wwdc24/10133)
 - [Bring your machine learning and AI models to Apple silicon](https://developer.apple.com/wwdc24/10159)
-- [What's new in Xcode 16](https://developer.apple.com/wwdc24/10135)
-- [What's new in SwiftData](https://developer.apple.com/wwdc24/10137)
 - [Explore machine learning on Apple platforms](https://developer.apple.com/wwdc24/10223)
-- [What's new in Swift](https://developer.apple.com/wwdc24/10136)
 - [Bring your app's core features to users with App Intents](https://developer.apple.com/wwdc24/10210)
 
 ### Tuesday, June 11, 2023
 
-- [Go further with Swift Testing](https://developer.apple.com/wwdc24/10195)
 - [Support real-time ML inference on the CPU](https://developer.apple.com/wwdc24/10211)
 - [Get started with Writing Tools](https://developer.apple.com/wwdc24/10168)
-- [Streamline sign-in with passkey upgrades and credential managers](https://developer.apple.com/wwdc24/10125)
-- [Go small with Embedded Swift](https://developer.apple.com/wwdc24/10197)
 - [What's new in App Intents](https://developer.apple.com/wwdc24/10134)
-- [A Swift tour: explore Swift's features and design](https://developer.apple.com/wwdc24/10184)
 - [Bring expression to your app with Genmoji](https://developer.apple.com/wwdc24/10220)
 - [What's new in Create ML](https://developer.apple.com/wwdc24/10183)
 - [Enhance your UI animations and transitions](https://developer.apple.com/wwdc24/10145)
-- [Create a custom data store with SwiftData](https://developer.apple.com/wwdc24/10138)
-- [Xcode essentials](https://developer.apple.com/wwdc24/10181)
 - [Deploy machine learning and AI models on-device with Core ML](https://developer.apple.com/wwdc24/10161)
 
 ### Wednesday, June 12, 2023
 
 - [Tailor macOS windows with SwiftUI](https://developer.apple.com/wwdc24/10148)
-- [What's new in SF Symbols 6](https://developer.apple.com/wwdc24/10188)
 - [Run, Break, Inspect: Explore effective debugging in LLDB](https://developer.apple.com/wwdc24/10198)
 - [Support semantic search with Core Spotlight](https://developer.apple.com/wwdc24/10131)
-- [Demystify explicitly built modules](https://developer.apple.com/wwdc24/10171)
-- [What's new in privacy](https://developer.apple.com/wwdc24/10123)
+- [Demystify SwiftUI Containers](https://developer.apple.com/wwdc24/10146)
 
 ### Thursday, June 13, 2023
 
@@ -81,6 +82,7 @@ Dates: June 10, 2024 to June 14, 2024
 - [Extend your Xcode Cloud workflows](https://developer.apple.com/wwdc24/10200)
 - [Add personality to your app through UX writing](https://developer.apple.com/wwdc24/10140)
 - [What's new in App Store Connect](https://developer.apple.com/wwdc24/10063)
+- [Consume noncopyable types in Swift](https://developer.apple.com/wwdc24/10170)
 
 ## Resources
 
