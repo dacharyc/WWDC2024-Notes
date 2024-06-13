@@ -41,27 +41,40 @@ Dates: June 10, 2024 to June 14, 2024
 
 #### Sessions
 
+- [Elevate your tab and sidebar experience in iPadOS](elevate-your-tab-sidebar-experience-ipados.md)
+- [Tailor macOS windows with SwiftUI](tailor-macos-windows-swiftui.md)
+- [Work with windows in SwiftUI](work-with-windows-swiftui.md)
+- [Demystify SwiftUI Containers](demystify-swiftui-containers.md)
+- [Bring your app's core features to users with App Intents](bring-your-apps-core-features-to-users-with-app-intents.md)
+- [What's new in App Intents](whats-new-in-app-intents.md)
+- [Design App Intents for system experiences](design-app-intents-for-system-experiences.md)
+- [Support semantic search with Core Spotlight](support-semantic-search-with-core-spotlight.md)
 
 ### Friday, June 14, 2023
 
 #### Sessions
 
+- [Run, Break, Inspect: Explore effective debugging in LLDB]
+- [Analyze heap memory]
+- [Explore Swift performance]
+- [Consume noncopyable types in Swift]
+- [Track model changes with SwiftData history]
+- [Enhance your UI animations and transitions]
+- [Get started with Writing Tools]
+- [Add personality to your app through UX writing]
 
 ## Sessions to attend:
 
 ### Monday, June 10, 2023
 
-- [Elevate your tab and sidebar experience in iPadOS](https://developer.apple.com/wwdc24/10147)
 - [Bring your app to Siri](https://developer.apple.com/wwdc24/10133)
 - [Bring your machine learning and AI models to Apple silicon](https://developer.apple.com/wwdc24/10159)
 - [Explore machine learning on Apple platforms](https://developer.apple.com/wwdc24/10223)
-- [Bring your app's core features to users with App Intents](https://developer.apple.com/wwdc24/10210)
 
 ### Tuesday, June 11, 2023
 
 - [Support real-time ML inference on the CPU](https://developer.apple.com/wwdc24/10211)
 - [Get started with Writing Tools](https://developer.apple.com/wwdc24/10168)
-- [What's new in App Intents](https://developer.apple.com/wwdc24/10134)
 - [Bring expression to your app with Genmoji](https://developer.apple.com/wwdc24/10220)
 - [What's new in Create ML](https://developer.apple.com/wwdc24/10183)
 - [Enhance your UI animations and transitions](https://developer.apple.com/wwdc24/10145)
@@ -69,10 +82,8 @@ Dates: June 10, 2024 to June 14, 2024
 
 ### Wednesday, June 12, 2023
 
-- [Tailor macOS windows with SwiftUI](https://developer.apple.com/wwdc24/10148)
 - [Run, Break, Inspect: Explore effective debugging in LLDB](https://developer.apple.com/wwdc24/10198)
 - [Support semantic search with Core Spotlight](https://developer.apple.com/wwdc24/10131)
-- [Demystify SwiftUI Containers](https://developer.apple.com/wwdc24/10146)
 
 ### Thursday, June 13, 2023
 
