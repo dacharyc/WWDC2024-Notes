@@ -54,14 +54,13 @@ Dates: June 10, 2024 to June 14, 2024
 
 #### Sessions
 
-- [Run, Break, Inspect: Explore effective debugging in LLDB]
-- [Analyze heap memory]
-- [Explore Swift performance]
-- [Consume noncopyable types in Swift]
-- [Track model changes with SwiftData history]
-- [Enhance your UI animations and transitions]
-- [Get started with Writing Tools]
-- [Add personality to your app through UX writing]
+- [Run, Break, Inspect: Explore effective debugging in LLDB](run-break-inspect-explore-effective-debugging-in-lldb.md)
+- [Analyze heap memory](analyze-heap-memory.md)
+- [Explore Swift performance](explore-swift-performance.md)
+- [Consume noncopyable types in Swift](consume-noncopyable-types-in-swift.md)
+- [Track model changes with SwiftData history](track-model-changes-with-swiftdata-history.md)
+- [Enhance your UI animations and transitions](enhance-your-ui-animations-and-transitions.md)
+- [Get started with Writing Tools](get-started-with-writing-tools.md)
 
 ## Sessions to attend:
 
@@ -82,18 +81,11 @@ Dates: June 10, 2024 to June 14, 2024
 
 ### Wednesday, June 12, 2023
 
-- [Run, Break, Inspect: Explore effective debugging in LLDB](https://developer.apple.com/wwdc24/10198)
-- [Support semantic search with Core Spotlight](https://developer.apple.com/wwdc24/10131)
-
 ### Thursday, June 13, 2023
 
-- [Track model changes with SwiftData history](https://developer.apple.com/wwdc24/10075)
-- [Analyze heap memory](https://developer.apple.com/wwdc24/10173)
-- [Explore Swift performance](https://developer.apple.com/wwdc24/10217)
 - [Extend your Xcode Cloud workflows](https://developer.apple.com/wwdc24/10200)
 - [Add personality to your app through UX writing](https://developer.apple.com/wwdc24/10140)
 - [What's new in App Store Connect](https://developer.apple.com/wwdc24/10063)
-- [Consume noncopyable types in Swift](https://developer.apple.com/wwdc24/10170)
 
 ## Resources
 
